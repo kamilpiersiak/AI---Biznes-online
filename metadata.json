@@ -1,0 +1,7 @@
+{
+  "name": "Professional AI Business Portrait Studio",
+  "description": "A sophisticated AI-powered portrait generator that transforms casual photos into high-end business photography using Gemini 2.5 Flash Image technology.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
